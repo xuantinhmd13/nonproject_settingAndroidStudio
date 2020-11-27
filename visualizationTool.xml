@@ -1,0 +1,34 @@
+<application>
+  <component name="VisualizationTool">
+    <option name="state">
+      <GlobalState>
+        <option name="configurationSetName" value="CUSTOM" />
+        <option name="customConfigurationAttributes">
+          <list>
+            <CustomConfigurationAttribute>
+              <option name="apiLevel" value="29" />
+              <option name="deviceId" value="pixel_xl" />
+              <option name="name" value="Preview" />
+              <option name="nightMode" value="NOTNIGHT" />
+              <option name="orientation" value="PORTRAIT" />
+              <option name="theme" value="Theme.AppCompat.NoActionBar" />
+              <option name="uiMode" value="NORMAL" />
+            </CustomConfigurationAttribute>
+            <CustomConfigurationAttribute>
+              <option name="apiLevel" value="29" />
+              <option name="deviceId" value="pixel" />
+              <option name="name" value="Preview" />
+              <option name="nightMode" value="NOTNIGHT" />
+              <option name="orientation" value="PORTRAIT" />
+              <option name="theme" value="Theme.AppCompat.Light.NoActionBar" />
+              <option name="uiMode" value="NORMAL" />
+            </CustomConfigurationAttribute>
+          </list>
+        </option>
+        <option name="firstTimeOpen" value="false" />
+        <option name="scale" value="0.23934257832562916" />
+        <option name="showDecoration" value="true" />
+      </GlobalState>
+    </option>
+  </component>
+</application>
