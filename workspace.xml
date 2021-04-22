@@ -1,0 +1,12 @@
+<application>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="KotlinReferencesTypeHintsProvider" />
+    <settingsMapElement>
+      <kotlin.KotlinReferencesTypeHintsProvider>
+        <Settings>
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.KotlinReferencesTypeHintsProvider>
+    </settingsMapElement>
+  </component>
+</application>
