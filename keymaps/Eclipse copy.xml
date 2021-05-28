@@ -15,8 +15,8 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl back_space" />
     <keyboard-shortcut first-keystroke="ctrl delete" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDeleteToWordStart" />
@@ -32,7 +32,6 @@
     <mouse-shortcut keystroke="control button3" />
   </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl q" />
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoNextBookmark">
