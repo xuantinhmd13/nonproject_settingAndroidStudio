@@ -9,17 +9,9 @@
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
-  <action id="Debug">
-    <keyboard-shortcut first-keystroke="shift alt d" />
-  </action>
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl delete" />
-    <keyboard-shortcut first-keystroke="ctrl q" />
-  </action>
-  <action id="EditorDeleteToWordEnd" />
-  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDeleteLine" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -32,6 +24,7 @@
     <mouse-shortcut keystroke="control button3" />
   </action>
   <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl q" />
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoNextBookmark">
@@ -61,9 +54,6 @@
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
   <action id="ResourceExplorer.show" />
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="shift alt x" />
-  </action>
   <action id="SearchEverywhere.PrevTab" />
   <action id="SendEOF" />
   <action id="ShowBookmarks">
